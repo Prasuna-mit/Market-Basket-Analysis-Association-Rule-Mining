@@ -1,4 +1,4 @@
-# Modified-Apriori-Association-Rule-Generation
+# Modified-Apriori-Association-Rule-Generation - Market Basket Analysis
 In this project I attempted to generate association rules using modified apriori algorithm.
 An apriori alorithm is implemented in python from scratch to generate 4-frequent itemsets, and association rules using frequent itemsets. 'Support' and 'Confidence' are taken as metrics.
 
